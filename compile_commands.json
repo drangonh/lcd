@@ -1,0 +1,12 @@
+[
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\TFT_LCD\\lcd",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\TFT_LCD\\lcd\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\TFT_LCD\\lcd\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\TFT_LCD\\lcd",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\TFT_LCD\\lcd\\RTE\\Device\\SWM320xE\\system_SWM320.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\TFT_LCD\\lcd\\RTE\\Device\\SWM320xE\\system_SWM320.c"
+    }
+]

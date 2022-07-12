@@ -26,4 +26,3 @@
 .\objects\main.o: C:\Program Files (x86)\K51\ARM\PACK\Synwit\SWM32_DFP\1.8.4\CSL\SWM320\SWM320_StdPeriph_Driver\SWM320_crc.h
 .\objects\main.o: C:\Program Files (x86)\K51\ARM\PACK\Synwit\SWM32_DFP\1.8.4\CSL\SWM320\SWM320_StdPeriph_Driver\SWM320_rtc.h
 .\objects\main.o: C:\Program Files (x86)\K51\ARM\PACK\Synwit\SWM32_DFP\1.8.4\CSL\SWM320\SWM320_StdPeriph_Driver\SWM320_wdt.h
-.\objects\main.o: C:\Program Files (x86)\K51\ARM\ARMCC\Bin\..\include\string.h
