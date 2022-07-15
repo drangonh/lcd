@@ -789,11 +789,11 @@ ARM Macro Assembler    Page 13
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4 --apcs=interw
 ork --depend=.\objects\startup_swm320.d -o.\objects\startup_swm320.o -I.\RTE\_T
 arget_1 -I"C:\Program Files (x86)\K51\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include" -
-I"C:\Program Files (x86)\K51\ARM\PACK\Synwit\SWM32_DFP\1.8.4\CSL\SWM320\CMSIS\D
-eviceSupport" -I"C:\Program Files (x86)\K51\ARM\PACK\Synwit\SWM32_DFP\1.8.4\CSL
-\SWM320\SWM320_StdPeriph_Driver" --predefine="__UVISION_VERSION SETA 524" --pre
-define="_RTE_ SETA 1" --list=.\listings\startup_swm320.lst RTE\Device\SWM320xE\
-startup_SWM320.s
+I"C:\Program Files (x86)\K51\ARM\PACK\Synwit\SWM32_DFP\1.20.1\CSL\SWM320\CMSIS\
+DeviceSupport" -I"C:\Program Files (x86)\K51\ARM\PACK\Synwit\SWM32_DFP\1.20.1\C
+SL\SWM320\SWM320_StdPeriph_Driver" --predefine="__UVISION_VERSION SETA 524" --p
+redefine="_RTE_ SETA 1" --list=.\listings\startup_swm320.lst RTE\Device\SWM320x
+E\startup_SWM320.s
 
 
 

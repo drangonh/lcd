@@ -1,5 +1,6 @@
 {
     "esls.clang.extraArgs": [
         "  "
-    ]
+    ],
+    "debug.allowBreakpointsEverywhere": true
 }
